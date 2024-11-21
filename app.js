@@ -6,3 +6,4 @@ console.log('#page-banner has child nodes:', banner.hasChildNodes());
 
 const clonedBanner = banner.cloneNode(true);
 console.log(clonedBanner);
+// hi
